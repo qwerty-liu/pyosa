@@ -4,6 +4,7 @@ a python interface to read and manipulate optical spectram analyzers
 files
 ------------
 ui.wxg: the wxGlade file that generate the ui code.
+<<<<<<< HEAD
 
 wxglade_out.py: the automatically generated ui code. Do not modify it. Modify ui.wxg instead.
 

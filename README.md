@@ -1,2 +1,2 @@
 # pyosa
-a python interface to read and manipulate the optical spectram analyzer
+a python interface to read and manipulate optical spectram analyzers

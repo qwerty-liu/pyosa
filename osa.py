@@ -14,7 +14,7 @@ class Osa():
     @property
     def data(self):
         return self._data
-
+    # the save and open of the Osa object is through pickle
     def save(self,file):
         pickle.dump(self,file)
 
